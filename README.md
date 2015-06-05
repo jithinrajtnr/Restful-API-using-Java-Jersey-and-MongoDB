@@ -1,3 +1,1 @@
-The OpenShift `jbossews` cartridge documentation can be found at:
-
-http://openshift.github.io/documentation/oo_cartridge_guide.html#tomcat
+In this example I have created a REST web-service which stores some data about the books in the MongoDB database and will retrieve those data in the JSON format. I have used Openshift cloud platform to host the web application. 
